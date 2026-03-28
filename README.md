@@ -2,6 +2,8 @@
 
 **Fast Torch** is a simple and lightweight Flutter-based flashlight app. It lets you turn on your device flashlight instantly, perfect for dark environments! 
 
+![FastTorchDemo](https://github.com/KrishBharadwaj5678/FastTorch/blob/main/FastTorchDemo.jpeg)
+
 ## ⚡ Features
 
 | Feature | Description |
