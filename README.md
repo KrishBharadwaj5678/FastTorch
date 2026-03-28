@@ -12,7 +12,6 @@
 | 📳 **Vibration Feedback** | Optional vibration feedback when toggling the torch. |
 | 🚀 **Lightweight & Fast** | Optimized for speed and minimal app size. |
 | 🌑 **Dark Mode Friendly** | Sleek dark-themed interface. |
-| 🎨 **Custom Splash Screen** | Smooth launch experience with your custom app icon. |
 
 ---
 
