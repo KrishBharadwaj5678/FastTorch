@@ -1,17 +1,65 @@
-# torch
+# 🔦 Fast Torch
 
-A new Flutter project.
+**Fast Torch** is a simple and lightweight Flutter-based flashlight app. It lets you turn on your device flashlight instantly, perfect for dark environments! 
 
-## Getting Started
+## ⚡ Features
 
-This project is a starting point for a Flutter application.
+| Feature | Description |
+|---------|-------------|
+| 🔦 **Instant Flashlight** | Turn your device flashlight on/off with a single tap. |
+| 📳 **Vibration Feedback** | Optional vibration feedback when toggling the torch. |
+| 🚀 **Lightweight & Fast** | Optimized for speed and minimal app size. |
+| 🌑 **Dark Mode Friendly** | Sleek dark-themed interface. |
+| 🎨 **Custom Splash Screen** | Smooth launch experience with your custom app icon. |
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Technology             | Purpose                                             |
+| ---------------------- | --------------------------------------------------- |
+| 🐦 **Dart**            | Programming language used to build the app         |
+| 💙 **Flutter**         | Cross-platform framework for mobile app development |
+| 🎨 **Material Design** | UI components and styling                           |
+| 🤖 **Android SDK**     | Used to run the app on Android devices             |
+| 🛠️ **Gradle**          | Build system for compiling and packaging the app   |
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/KrishBharadwaj5678/FastTorch.git
+```
+
+### 2️⃣ Navigate to project directory
+
+```bash
+cd FastTorch
+```
+
+### 3️⃣ Install dependencies
+
+```bash
+flutter pub get
+```
+
+### 4️⃣ Run the app
+
+```bash
+flutter run
+```
+
+---
+
+## Contributing 🤝
+
+Want to contribute? Here's how:
+
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
