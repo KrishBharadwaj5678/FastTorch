@@ -1,10 +1,27 @@
-# 🔦 Fast Torch
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KrishBharadwaj5678&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://hits.sh/github.com/KrishBharadwaj5678/FastTorch.svg?style=for-the-badge&label=Repo%20Views&color=blue" />
+  <img src="https://img.shields.io/github/stars/KrishBharadwaj5678/FastTorch?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/last-commit/KrishBharadwaj5678/FastTorch?style=for-the-badge&color=orange" />
+  <img src="https://img.shields.io/github/repo-size/KrishBharadwaj5678/FastTorch?style=for-the-badge&color=blue" />
+</p>
 
-**Fast Torch** is a simple and lightweight Flutter-based flashlight app. It lets you turn on your device flashlight instantly, perfect for dark environments! 
+<p align="center">
+  <a href="README.md">English</a> | 
+  <a href="README.pt.md">Português</a> | 
+  <a href="README.ja.md">日本語</a> | 
+  <a href="README.ru.md">Русский</a>
+</p>
+
+<h1 align="center">🔦  Fast Torch</h1>
+
+<p align="center">
+  Fast Torch is a lightweight Flutter-based flashlight app. It lets you turn on your device flashlight instantly, perfect for dark environments! 
+</p>
 
 ![FastTorchDemo](https://github.com/KrishBharadwaj5678/FastTorch/blob/main/FastTorchDemo.jpeg)
 
-## ⚡ Features
+## <img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/features.gif" width="35"/> Features
 
 | Feature | Description |
 |---------|-------------|
@@ -13,21 +30,21 @@
 | 🚀 **Lightweight & Fast** | Optimized for speed and minimal app size. |
 | 🌑 **Dark Mode Friendly** | Sleek dark-themed interface. |
 
----
+<img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/divider.gif" width="100%"/>
 
-## 🛠️ Tech Stack
+## <img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/techStack.gif" width="35"/> Tech Stack
 
-| Technology             | Purpose                                             |
-| ---------------------- | --------------------------------------------------- |
-| 🐦 **Dart**            | Programming language used to build the app         |
-| 💙 **Flutter**         | Cross-platform framework for mobile app development |
-| 🎨 **Material Design** | UI components and styling                           |
-| 🤖 **Android SDK**     | Used to run the app on Android devices             |
-| 🛠️ **Gradle**          | Build system for compiling and packaging the app   |
+| Tech | Purpose |
+|------|---------|
+| <img src="https://skillicons.dev/icons?i=dart" width="25"/> **Dart** | Programming language used to build the app |
+| <img src="https://skillicons.dev/icons?i=flutter" width="25"/> **Flutter** | Cross-platform framework for mobile app development |
+| <img src="https://img.icons8.com/color/48/material-ui.png" width="25"/> **Material Design** | UI components and styling |
+| <img src="https://skillicons.dev/icons?i=androidstudio" width="25"/> **Android SDK** | Used to run the app on Android devices |
+| <img src="https://skillicons.dev/icons?i=gradle" width="25"/> **Gradle** | Build system for compiling and packaging the app |
 
----
+<img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/divider.gif" width="100%"/>
 
-## 🚀 Getting Started
+## <img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/gettingStarted.gif" width="35"/> Getting Started
 
 ### 1️⃣ Clone the repository
 
@@ -53,14 +70,14 @@ flutter pub get
 flutter run
 ```
 
----
+<img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/divider.gif" width="100%"/>
 
-## Contributing 🤝
+## <img src="https://github.com/KrishBharadwaj5678/FastTorch/raw/main/assets/icon/readme/license.gif" width="35"/> License
 
-Want to contribute? Here's how:
+This project is licensed under the **MIT License**.
 
-1. 🍴 Fork the repository.
-2. 🌿 Create a new branch (`git checkout -b feature-name`).
-3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
-4. 🚀 Push to your branch (`git push origin feature-name`).
-5. 🔄 Submit a pull request to merge into the main branch.
+See the [LICENSE](LICENSE) file for more details.
+
+<p align="center">
+  <img src="https://github.com/KrishBharadwaj5678/FastTorch/blob/main/assets/icon/readme/footer.gif" width="200px"/>
+</p>
